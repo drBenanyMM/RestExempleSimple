@@ -1,2 +1,2 @@
 # RestExempleSimple
-Premier TP Rest avec JAW-RS
+Premier TP Rest avec JAX-RS
